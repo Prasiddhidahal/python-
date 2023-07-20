@@ -1,0 +1,11 @@
+num1= input(" enter a number1 ")
+num2= input(" enter a number2 ")
+
+result=float(num1)+float(num2)
+result_1=float(num1)*float(num2)
+result_2 = float(num1)-float(num2)
+result_3 = float(num1)/float(num2)
+print( result  )
+print(result_1)
+print(result_2)
+print(result_3)
