@@ -1,0 +1,4 @@
+John Doe - HR
+Jane Smith - Finance
+Alice Johnson - IT
+Bob Anderson - Marketing
